@@ -20,7 +20,7 @@ function Home() {
     }, []);
     return (
         <SpotlightCard className="custom-spotlight-card bg-transparent max-sm:p-2" spotlightColor="rgba(148, 148, 148, 0.2)">
-            <div className='flex justify-center items-center gap-20 max-md:flex-col  w-full max-md:h-[50vh] max-sm:h-[60vh] max-xl:h-[90vh] h-full max-md:gap-10'>
+            <div id='Home' className='flex justify-center items-center gap-20 max-md:flex-col  w-full max-md:h-[50vh] max-sm:h-[60vh] max-xl:h-[90vh] h-full max-md:gap-10'>
                 <div className='w-1/3 max-lg:1/4'>
                     <img className='shadow' src="https://res.cloudinary.com/dulfdrdf2/image/upload/v1739163155/itnjbh6xzgcgzh3ousrt.png" alt="" />
                 </div>
@@ -41,7 +41,7 @@ function Home() {
                                 <path d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z"></path>
                             </svg>
                         </a>
-                        <a href={'https://drive.google.com/file/d/1jNUmP7Z_-q1_YCyg4urlRAWWlQ9dFRWZ/view'} download={true} target='_blank'>
+                        <a href={'https://drive.google.com/file/d/1m2FgEhafMVcvGSeZpW5S0IjlSXOSjxR2/view?usp=sharing'} download={true} target='_blank'>
 
                         <button className="relative items-center justify-start inline-block px-4 py-2 overflow-hidden font-bold rounded-full group cursor-pointer max-sm:text-sm">
                             <span className="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
