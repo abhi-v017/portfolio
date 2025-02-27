@@ -22,7 +22,7 @@ function Home() {
         <SpotlightCard className="custom-spotlight-card bg-transparent max-sm:p-2" spotlightColor="rgba(148, 148, 148, 0.2)">
             <div id='Home' className='flex justify-center items-center gap-20 max-md:flex-col  w-full max-md:h-[50vh] max-sm:h-[60vh] max-xl:h-[90vh] h-full max-md:gap-10'>
                 <div className='w-1/3 max-lg:1/4'>
-                    <img className='shadow' src="https://res.cloudinary.com/dulfdrdf2/image/upload/v1739163155/itnjbh6xzgcgzh3ousrt.png" alt="" />
+                    <img className='shadow rounded-full' src="https://res.cloudinary.com/dulfdrdf2/image/upload/v1740637345/nstssvtfkrkg4gnme6jd.jpg" alt="" />
                 </div>
                 <div className='text-white w-1/2 text-xl max-md:text-md max-sm:text-sm max-lg:w-full'>
                     <h1 className='font-bold my-4 text-2xl max-md:text-lg max-sm:text-sm '>Hello, I’m <span className='text-[#725ced] underline'>Abhishek Verma</span> — <span ref={el} /></h1>
