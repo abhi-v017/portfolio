@@ -28,7 +28,7 @@ function Project() {
                             Built with MongoDB, Express.js, React, and Node.js, optimized using Vite for fast development.
                         </p>
                         <button>
-                            <a target='_blank' href="https://github.com/abhi-v017/social-media" className="relative items-center justify-start inline-block px-4 py-2 overflow-hidden font-bold rounded-full group my-2">
+                            <a target='_blank' href="https://github.com/abhi-v017/vibehive-web" className="relative items-center justify-start inline-block px-4 py-2 overflow-hidden font-bold rounded-full group my-2">
                                 <span className="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
                                 <span className="absolute top-0 left-0 w-48 h-48 -mt-1 transition-all duration-500 ease-in-out rotate-45 -translate-x-56 -translate-y-24 bg-[#725ced] opacity-100 group-hover:-translate-x-8"></span>
                                 <span className="relative w-full text-left text-white transition-colors duration-300 ease-in-out"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 30 30" color="#fff" fill="#fff">
