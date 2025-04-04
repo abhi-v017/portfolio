@@ -53,7 +53,7 @@ function Contact() {
             });
     }
     return (
-        <SpotlightCard className="custom-spotlight-card" spotlightColor="rgba(5, 253, 17, 0.2)">
+        <SpotlightCard className="custom-spotlight-card" spotlightColor="rgba(29, 5, 253, 0.1)">
             <div id='Contact' className='flex flex-col items-center gap-4 relative py-6'>
                 <h1 className='py-4 font-bold text-2xl text-[#725ced] underline text-center'>Contact me</h1>
                 <form onSubmit={handleSubmit} className='flex flex-col gap-4 text-white border-2 border-zinc-600 rounded-xl p-4 bg-zinc-950 shadow-md shadow-[#725ced]'>
